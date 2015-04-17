@@ -30,3 +30,8 @@ var createdPatient = (Patient)FHIRbase.Create(patient);
 ...
 FHIRbase.Delete(createdPatient);
 ```
+
+
+## License
+
+FHIRbase is released under the terms of the MIT License.
